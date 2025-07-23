@@ -164,3 +164,8 @@
 .carousel-inner {
     box-sizing: border-box;
 }
+.carousel-inner img {
+    width: auto;
+    height: 400px;
+    object-fit: contain;
+}
